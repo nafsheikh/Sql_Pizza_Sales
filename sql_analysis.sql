@@ -1,3 +1,8 @@
+
+Data Cleaning , Data Transformation , Joins and Subqueries , Aggregation Functions (SUM, COUNT, AVG), Group By and Order By,
+Date and Time Functions, Common Table Expressions (CTEs), Exploratory Data Analysis (EDA), Business Intelligence Thinking, Basic Data Modeling
+
+
 -- Retrieve the total number of orders placed.
 
 select count(order_id) as total_orders from orders;
